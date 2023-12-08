@@ -1,3 +1,4 @@
+
 public class Tests{
 
 	public void mandar()
@@ -5,5 +6,8 @@ public class Tests{
 	System.out.println("hello");
 	}
 
+    public void adityaChourasia() {
+        System.out.println("Hello From Aditya Chourasia");
+    }
 
 }
